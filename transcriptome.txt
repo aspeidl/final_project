@@ -1,0 +1,1 @@
+Must specify basic parameters:  ex. Trinity --seqType fq --single reads.fq --max_memory 10G  at /project/stuckert/aspeidl/trinity/trinityrnaseq-v2.15.2/Trinity line 984.
